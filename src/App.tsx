@@ -1,8 +1,6 @@
 import React, { FC } from "react";
 import { useWeb3React } from "@web3-react/core";
 
-import Web3 from "web3";
-
 import { injected } from "./injected";
 
 const App: FC = () => {

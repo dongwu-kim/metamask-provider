@@ -15,7 +15,6 @@ ReactDOM.render(
     <Web3ReactProvider getLibrary={getLibrary}>
       <App />
     </Web3ReactProvider>
-    ,
   </React.StrictMode>,
   document.getElementById("root"),
 );
